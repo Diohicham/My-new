@@ -81,3 +81,5 @@ exit:   lw $t8 , n
 
 addi $v0, $zero, 10		                # exit the program
 	 syscall				# call the syscall to exit
+	 
+	 #end of code
