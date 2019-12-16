@@ -1,14 +1,14 @@
 #Name : Hicham Dioury	
 #Course :Computer Architecture
 #
-# Solution
+# Not a solution
 .data                       # data segment  
 
 n: .word 7 						
-w: .word 45, 13, 46, 38, 39, 24, 33 			
-x: .word 30, 12, 45, 34, 40, 14, 30 			
-y: .word 32, 10, 39, 89, 24, 12, 67 			
-z: .word 42, 20, 76, 23, 23, 65, 15 			
+w: .word 45, 13, 46, 38, 39			
+x: .word 30, 12, 45, 34, 40			
+y: .word 32, 10, 39, 89, 24 			
+z: .word 42, 20, 76, 23, 23 			
  
 
 wp: 	.space 4 					# a word result
