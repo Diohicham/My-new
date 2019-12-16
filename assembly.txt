@@ -1,7 +1,7 @@
 #Name : Hicham Dioury	
 #Course :Computer Architecture
 #
-# Solution
+# Not a solution
 .data                       # data segment  
 
 n: .word 7 						
