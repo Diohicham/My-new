@@ -1,6 +1,7 @@
 #Name : Hicham Dioury	
 #Course :Computer Architecture
 #it is not a solution 
+# i love github
 .data                       # data segment  
 
 n: .word 7 						
